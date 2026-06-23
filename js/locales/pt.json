@@ -1,0 +1,10 @@
+{
+  "app": {
+    "title": "JSON Formatter",
+    "description": "Validate, format, and minify JSON locally in your browser with clear error messages."
+  },
+  "ui": {
+    "skip": "Skip to tool",
+    "loading": "Loading..."
+  }
+}
